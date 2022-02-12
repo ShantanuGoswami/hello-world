@@ -1,3 +1,3 @@
 " hello-world" 
 
-This is a starter maven based project configured with Jenkins to learn CI.
+This is a simple hello-world maven based project configured with Jenkins to learn CI.
