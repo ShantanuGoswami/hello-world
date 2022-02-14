@@ -1,13 +1,16 @@
 package com.testPackage;
 
-import static org.junit.Assert.assertTrue;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
+
+import static org.testng.Assert.assertTrue;
 
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+
+@Test
+public class AppTest
 {
     /**
      * Rigorous Test :-)
@@ -18,3 +21,7 @@ public class AppTest
         assertTrue( true );
     }
 }
+
+
+
+
