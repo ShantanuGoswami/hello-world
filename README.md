@@ -6,3 +6,5 @@ Github Webhook is used to sync github hello-world project with jenkins.
 Used ngrok software to get my public ip.
 command to run ngrok
 ngrok.exe http 8080
+
+Every time a PR is merged to main branch, jenkins job runs.
